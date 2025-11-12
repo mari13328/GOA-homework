@@ -36,6 +36,8 @@ print(name.lower()) #goa
 
 
 
+
+
 #.upper()
 
 name1 ="giorgi"
@@ -44,6 +46,9 @@ uppered_string = name1.upper()
 
 print(uppered_string) #GIORGI
 
+
+
+
 #.capitalize()
 
 name2 = "lasha"
@@ -51,6 +56,9 @@ name2 = "lasha"
 capitalized_string = name2.capitalize() 
 
 print(capitalized_string) #Lasha
+
+
+
 
 #.find()
 

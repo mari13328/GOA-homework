@@ -8,6 +8,8 @@ uppered_string = name.upper()
 print(uppered_string) #LIZA
 
 
+
+
 # 2.
 
 name2 = input("შეიყვანე შენი სახლი: ")
@@ -15,6 +17,8 @@ name2 = input("შეიყვანე შენი სახლი: ")
 lowered_string = name2.lower()
 
 print(name.lower()) #goa
+
+
 
 
 # 3.
@@ -30,13 +34,20 @@ print(capitalized_string) #Nana
 
 
 
+frinds = ["liza","nans","ele","nuca"]
+
+for i in frinds:
+    print(i.upper())
 
 
 
 
 
 
+list = ["strawbbery","apple","mwvadi","frie"]
 
+for i in range(len(list)):
+    print(list[i].lower)
 
 
 
