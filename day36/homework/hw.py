@@ -44,9 +44,63 @@ for i in range(numm1,numm2):
 
 
 
+list = ["goga","liza","luka","nana"]
+
+# len == gvibrunebs strings an siis sigrdzees
+
+for i in range(len(4)):
+    print(list[i])
 
 
 
+#1)
+list1 = "giorgi"
+
+for i in range(len(list1)):
+    print(list[i])
+
+
+#2)
+
+list2= [2,3,4,5,6,8]
+
+for i in list2:
+    print(i)
+
+
+
+name = "goga aris kargi moswavle"
+
+if "kargi" in name:
+    print(True)
+elif "kargi" not in name:
+    print(False)
+
+#1)
+
+name1 = "goga"
+
+vowels ="aeiou"
+
+for i in name1:
+    if i in vowels:
+        print(True)
+    else:
+        print(False)
+
+
+#2)
+
+
+name2 = "goga"
+
+vowels1 ="aeiou"
+
+for i in name2:
+    if i in vowels1:
+        print(True)
+    else:
+        print(False)
 
 
 
