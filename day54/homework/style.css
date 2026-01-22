@@ -1,0 +1,32 @@
+
+p{
+    font-size: 20px;
+    color:green ;
+    background-color: blue;
+    border: 3px red;
+    text-align:center ;
+}
+
+h1{
+    font-size: 25px;
+    color: purple;
+    background-color: green;
+    border:5px blue ;
+    text-align: center;
+}
+
+
+button{
+    font-size:15px ;
+    color: yellow;
+    background-color: orange;
+    border:2px pink ;
+}
+
+
+
+
+
+
+
+

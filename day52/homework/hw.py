@@ -35,9 +35,57 @@ print(list1)
                                                                                                                         
 
 
+text = "aBcDeFGhs"
+symbols = []
+
+for i in range(len(text)):
+    if text[i].islower():
+        symbols.append("+")
+
+    elif text[i].isupper():
+        symbols.append("-")
+
+
+
+i = 0
+i1 = symbols.count("-")
+
+while i < len(symbols):
+    if i1 % 2 == 0:
+        if symbols[i] == "+":
+            symbols.pop(i)
+        else:
+            i += 1
+
+    else:
+        if symbols[i] == "-":
+            symbols.pop(i)
+        else:
+            i += 1
+
+print(symbols)
+
+
+                                                                                                                        
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                        
