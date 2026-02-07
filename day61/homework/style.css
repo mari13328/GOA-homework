@@ -1,0 +1,48 @@
+
+#box {
+    background-color:lightblue;
+    color: darkblue;
+    width: 300px;
+    height: 100px;
+    border: 3px;
+    text-align: center;
+}
+
+#text {
+    color: brown;
+}
+
+#heading {
+    color: blueviolet;
+    font-size: 40px;
+}
+
+#color {
+    color: rgb(187, 26, 101);
+    font-style: italic;
+}
+
+#car {
+    color: red;
+}
+
+#car1{
+    color: blue;
+    font-size: 25px;
+}
+
+#car2 {
+    color: pink;
+    font-style: italic;
+}
+
+#car3 {
+    color: green;
+}
+
+
+#car4 {
+    color: blueviolet;
+}
+
+
