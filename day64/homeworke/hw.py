@@ -1,9 +1,10 @@
 
-def greet(name):
-
+def greet(name):#parametri
+#punqciss saxeli
+#defis gareshe punqcia ar shesruldeba
     return ("hello" , name ) 
 
-print(greet("Mari"))
+print(greet("Mari")) #argumentebi
 print(greet("Seso"))
 print(greet("Ana"))
 
@@ -78,3 +79,15 @@ def check_even():
 
 print(check_even())
 
+                                                                                                                        
+
+
+
+
+
+
+
+
+
+
+                                                                                                                        

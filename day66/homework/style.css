@@ -1,0 +1,79 @@
+
+.box{
+    color:rgb(54, 175, 54);
+    background-color: darkgreen;
+    font-size: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+#inbox{
+    color: #52074e;
+    background-color: rgb(245, 71, 207);
+}
+
+
+.klass{
+    color: #661010;
+    background-color: #3d0202;
+    font-size: 18px;
+    padding: 10px;
+}
+
+
+#pl{
+    color: #000;
+    background-color: rgb(170, 233, 233);
+    font-size: 25px;
+    border: 3px;
+    padding: 20px;
+}
+
+
+.peaper{
+    background-color: aqua;
+}
+
+.div1{
+    color: aquamarine;
+}
+
+#pinguin{
+    background-color: rgb(36, 10, 151);
+}
+
+
+.div2{
+    color: black;
+}
+
+#numbers{
+    background-color: rgb(27, 24, 24);
+}
+
+                                                    
+
+.divv{
+    background-color: #3d0202;
+    padding: 30px;
+}
+
+
+.para{
+    color: #661010;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
