@@ -1,0 +1,47 @@
+
+.word{
+    text-transform: uppercase;
+}
+
+.hello{
+    text-transform: lowercase;
+}
+
+
+.pro{
+    text-transform: capitalize;
+}
+
+
+.gra1{
+    text-transform: uppercase;
+}
+
+.gra2{
+    text-transform: lowercase;
+}
+
+.gra3{
+    text-transform: capitalize;
+}
+
+
+
+
+.ming{
+    text-shadow: 2px 2px 5px gray;
+}
+
+.ming1{
+    text-shadow: -3px 3px 6px black;
+}
+
+
+.ming2{
+    text-shadow: 0px 0px 10px blue;
+}
+
+
+
+
+
