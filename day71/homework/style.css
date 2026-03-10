@@ -1,0 +1,73 @@
+
+#p1{
+    font-weight: normal;
+}
+
+#p2{
+    font-weight: bold;
+}
+#სქელი-ტექსტი
+#p3{
+    font-weight: lighter;
+}
+#თხელი-ტექსტი
+#p4{
+    font-weight: bolder;
+}
+#უპრო-სქელი
+#p5{
+    font-weight:normal;
+}
+
+                                                    
+
+#h1{font-weight: 100;}
+#h2{font-weight: 200;}
+#h3{font-weight: 300;}
+#h4{font-weight: 400;}
+#h5{font-weight: 500;}
+#h6{font-weight: 600;}
+#h7{font-weight: 700;}
+#h8{font-weight: 800;}
+#h9{font-weight: 900;}
+
+                                                    
+
+#html{font-weight: lighter;}
+
+#css{font-weight: bolder;}
+
+
+                                                    
+
+#students{
+    font-weight: 500;
+}
+
+#students ul{
+    font-weight: bold;
+}
+
+                                                    
+
+#tab1{
+    font-weight: 900;
+    color: rgb(238, 148, 13);
+    font-size: 25px;
+}
+
+                                                    
+
+#tab2{
+    font-weight: 900;
+    color: rgb(237, 237, 243);
+    font-size: 25px;
+}
+
+#tab2 td{
+    background-color: rgb(204, 171, 235);
+    border: 2px solid rgb(20, 12, 1);
+}
+
+                                                    
+

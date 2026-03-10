@@ -4,12 +4,14 @@ def solution(string):
 
 
 #3
-#?
+def positive_sum(arr):
+    return sum(x for x in arr if x >0)
 
 
 
 #4
-#?
+def repeat_str(repeat, string):
+    return string * repeat
 
 
 
