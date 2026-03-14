@@ -1,0 +1,36 @@
+
+.link1:link{
+    color: blueviolet;
+    background-color: blue;
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.link2:hover{
+    color: green;
+    background-color: rgb(255, 0, 98);
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.link3:active{
+    color: olive;
+    background-color: orangered;
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.link4:visited{
+    color: rgb(230, 11, 11);
+    background-color: blue;
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+}
