@@ -1,0 +1,85 @@
+/* 
+#div{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    transition: 3s;
+}
+
+#div:active{
+    background-color: blue;
+    width: 500px;
+}
+
+
+#div:hover{
+    background-color: blueviolet;
+    border: 5px solid purple;
+    /* border-radius: 50%;
+ } */
+
+                                                    
+/* 
+table{
+    border-collapse: collapse;
+}
+
+td{
+    border: 1px solid blue;
+}
+
+tr:nth-child(even){
+    background-color: red;
+}
+
+tr:nth-child(odd){
+    background-color: rgb(9, 150, 39);
+    text-align: center;
+}
+
+#first-row td:nth-child(odd){
+    background-color: blueviolet;
+} */
+
+
+
+                                                    
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table,th,td{
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+}
+
+tr:nth-child(odd){
+    color: rgb(255, 0, 0);
+    background-color: rgb(9, 0, 128);
+    font-family: cursive;
+}
+
+tr:nth-child(even){
+    color: yellow;
+    background-color: blue;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
