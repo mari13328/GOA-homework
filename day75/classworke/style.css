@@ -1,4 +1,4 @@
-/* 
+
 #div{
     width: 300px;
     height: 300px;
@@ -15,8 +15,8 @@
 #div:hover{
     background-color: blueviolet;
     border: 5px solid purple;
-    /* border-radius: 50%;
- } */
+}
+
 
                                                     
 /* 
@@ -39,7 +39,7 @@ tr:nth-child(odd){
 
 #first-row td:nth-child(odd){
     background-color: blueviolet;
-} */
+}
 
 
 
@@ -69,11 +69,6 @@ tr:nth-child(even){
     font-weight: bold;
     font-size: 35px;
 }
-
-
-
-
-
 
 
 

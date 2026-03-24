@@ -1,0 +1,12 @@
+
+/* ol li{
+    list-style-type: lower-alpha;
+} */
+
+                                                    
+
+ul{
+    list-style-position: inside;
+
+    list-style-image:url("#");
+}
