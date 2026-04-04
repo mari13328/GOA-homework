@@ -1,0 +1,46 @@
+
+.btn1{
+    padding: 40px 100px;
+}
+
+.btn2{
+    padding: 64px;
+}
+
+.btn3{
+    padding: 50px 20px 15px 70px;
+}
+
+.btn4{
+    padding-top:45px ;
+}
+
+                                                    
+
+.bor{
+    border-top: 4px solid red;
+    border-right: 4px solid blue;
+    border-bottom:4px solid green;
+    border-left: 4px solid orange;
+    padding: 10px 20px;
+}
+
+                                                    
+
+.btn11{
+    margin: 80px;
+}
+
+.btn21{
+    margin: 40px;
+}
+
+.btn31{
+    margin: 10px 60px 35px 80px;
+}
+
+.btn41{
+    margin-bottom: 45px;
+}
+
+
