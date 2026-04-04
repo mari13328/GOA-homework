@@ -1,0 +1,126 @@
+
+.hobbies{
+    list-style-position: inside;
+    border: 2px solid black;
+    color: darkblue;
+    background-color: lightgray;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+                                                    
+
+.products{
+    list-style-position: inside;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: green;
+    background-color: rgb(94, 247, 145);
+    border: 2px solid black;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+                                                    
+
+.style{
+    list-style-type: square;
+    color: red;
+    background-color: lightblue;
+    border: 2px solid black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.styl2{
+    list-style-type: square;
+    color: purple;
+    background-color:lightpink ;
+    border: 2px solid black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+                                                    
+
+.shorthand {
+    list-style: square;
+    border: 2px solid black;
+    background-color: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.shorthand li{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.shorthand li:hover{
+    background-color: black;
+    color: white;
+}
+
+                                                    
+
+.subject{
+    list-style-type: decimal;
+    color: blue;
+    background-color: lightgray;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.subject ul{
+    list-style-type: circle;
+    color: darkgreen;
+    background-color: white;
+    border: 1px solid black;
+}
+
+                                                    
+
+.recipe{
+    list-style: decimal inside;
+    color: black;
+    background-color: lightyellow;
+    font-size: 18px;
+    font-family: cursive;
+}
+
+.recipe li:hover{
+    background-color: orange;
+    color: white;
+}
+
+.recipe li:active{
+    background-color: red;
+    color: white;
+}
+
+                                                    
+
+.cities{
+    text-align: center;
+    color: blue;
+    background-color: rgb(228, 209, 247);
+}
+
+
+
+                                                    
+.travel{
+    list-style: georgian inside;
+    font-size: 18px;
+    text-decoration: underline;
+    color: black;
+    background-color: lightgreen;
+}
+
+.travel ul{
+    list-style: circle outside;
+}
+
+.travel li:hover{
+    background-color: black;
+    color: white;
+}

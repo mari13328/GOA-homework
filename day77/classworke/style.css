@@ -5,7 +5,7 @@
 
                                                     
 
-ul{
+ul li{
     list-style-position: inside;
 
     list-style-image:url("#");

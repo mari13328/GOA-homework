@@ -1,0 +1,36 @@
+
+input{
+    padding: 12px;
+    margin: 8px;
+    background-color: lightyellow;
+}
+
+input:hover{
+    background-color: orange;
+}
+
+input:focus{
+    outline: none;
+    border: 2px solid green;
+}
+
+                                                    
+
+#hw1{
+    padding: 12px;
+    margin: 8px;
+    background-color: lightyellow;
+}
+
+#hw1:hover{
+    background-color: orange;
+}
+
+#hw1:focus{
+    outline: none;
+    border: 2px solid green;
+}
+
+                                                    
+
+
