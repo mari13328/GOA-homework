@@ -1,0 +1,48 @@
+
+.parent{
+    width: 700px;
+    height: 700px;
+    border: 2px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+
+#one{
+    flex-grow: 1;
+}
+
+
+#three{
+    width: 200px;
+}
+
+#five{
+    flex-grow: 3;
+
+}
+y6q wyhsdf
+
+
+.child{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    font-size:40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid red;
+
+    
+}
+
+                                                    
+
+
+
+
+
+
